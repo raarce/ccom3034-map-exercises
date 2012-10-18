@@ -1,0 +1,16 @@
+pollito chicken
+gallina hen
+lapiz pencil
+pluma pen
+ventana window
+puerta door
+techo ceiling
+piso floor
+almohada pillow
+cama bed
+mesa table
+silla chair
+dedos fingers
+cabeza head
+brazos arms
+pierna leg
